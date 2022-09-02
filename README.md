@@ -1,6 +1,6 @@
 # projeto-final-utd-php
 
-Projeto final do curso de PHP da Universidade do Trabalho Digital
+Projeto final do curso de PHP da Universidade do Trabalho Digital utilizando CodeIgniter4
 
 
 PROCESSO DE CONCLUSÃO:
